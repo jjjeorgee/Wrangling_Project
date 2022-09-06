@@ -12,7 +12,7 @@ I tackled the below Data Quality and Tidiness issues in the various datasets gat
 * twitter-archive-enhanced.csv
 1. The timestamp column was an object datatype instead of datetime.
 
-2. Seeveral columns had null objects represented as 'None' instead of NaN.
+2. Several columns had null objects represented as 'None' instead of NaN.
 
 3. Dog Name column had invalid names i.e 'None', 'quite', 'such', 'the 'a', 'an' etc. 
 
